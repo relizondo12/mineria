@@ -1,3 +1,3 @@
 # mineria
 
-Ejercicios 1
+
