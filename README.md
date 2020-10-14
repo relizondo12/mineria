@@ -13,3 +13,4 @@
    [Mapa Mental 2](https://github.com/relizondo12/mineria/blob/master/mapa%20mental%202%20Grupo%2002(1887942).pdf)
  
 
+#Fase 2
