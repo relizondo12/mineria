@@ -15,3 +15,5 @@
 
 # Fase 2
    [Bases de Datos](https://github.com/relizondo12/mineria/blob/master/Bases%20de%20datos.pdf)
+   
+   [Python problemas Basicos](https://github.com/relizondo12/mineria/blob/master/Python%20Basico_1887942.ipynb)
