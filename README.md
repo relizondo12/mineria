@@ -25,3 +25,5 @@
 # Fase 3   
   
    [Avance 2 PIA](https://github.com/relizondo12/mineria/blob/master/Avance%20PIA_II_02_06.ipynb)
+   
+   [Poster](https://github.com/kevingonzalez1805425/Mineria-de-Datos-02/blob/master/PIA_Equipo06_Grupo02..pdf)
